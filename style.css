@@ -134,6 +134,11 @@ h3{
     width: 150px;
 }
 
+.missoes:active{
+    position: relative;
+    bottom: 4px;
+}
+
 #baixo img{
     width: 100%;
 }
